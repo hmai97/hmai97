@@ -1,6 +1,6 @@
 WELCOME TO MAI PAGE!
 # 💫 About Me:
-👋 Hi, I’m Huong, a Software Engineer living in Seattle. <br>👀 I’m interested in turning cool ideas into real-world solutions.<br>🌱 I’m looking for exciting opportunities to contribute to innovative projects and grow professionally. <br>📫 How to reach me: huongmai3568@gmail.com
+👋 Hi, I’m Huong <br>👀 I’m interested in turning cool ideas into real-world solutions.<br>🌱 I’m looking for exciting opportunities to contribute to innovative projects and grow professionally. <br>📫 How to reach me: huongmai3568@gmail.com
 
 
 ## 🌐 Socials:
